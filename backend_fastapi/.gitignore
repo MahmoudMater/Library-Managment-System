@@ -1,0 +1,3 @@
+# Project-wide rules: see repository root `.gitignore`.
+# Below: backend-only extras (optional local Alembic branches, etc.)
+*.db-journal
